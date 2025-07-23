@@ -58,15 +58,5 @@
       "view": "xyz",
       "code": "xyz"
     }
-  },
-  {
-    "name": "Bd Masjids",
-    "desc": "It shows Masjids of different sectors of BD. as user clicks it will redirect to wiki of that Masjid for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "xyz",
-      "code": "xyz"
-    }
   }
 ]
