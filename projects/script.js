@@ -47,7 +47,7 @@ function showProjects(projects) {
         projectsHTML += `
         <div class="grid-item ${project.category}">
         <div class="box tilt" style="width: 380px; margin: 1rem">
-      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
+      <img draggable="false" src="https://biotechsphereresearch.odoo.com/web/image/1661-35df0748/2945204.webp" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.desc}</h3>
