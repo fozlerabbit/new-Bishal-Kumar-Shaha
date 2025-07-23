@@ -1,51 +1,27 @@
 [
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "name": "Animal Nutrition",
+        "icon": "https://cdn-icons-png.flaticon.com/512/5264/5264876.png"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+        "name": "Meat Science",
+        "icon": "https://media.istockphoto.com/id/1319322911/vector/synthetic-meat-concept-farmed-beef-steak-in-the-laboratory-vector-illustration.jpg"
     },
     {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+        "name": "Livestock Economics",
+        "icon": "https://static.vecteezy.com/system/resources/previews/015/841/514/non_2x/chicken-lamb-cow-livestock-icon-logo-design-template-vector.jpg"
     },
     {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+        "name": "Critical Thinking",
+        "icon": "https://cdn-icons-png.flaticon.com/512/9631/9631292.png"
     },
     {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+        "name": "Lead Generation",
+        "icon": "https://cdn-icons-png.flaticon.com/512/12210/12210154.png"
     },
     {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
-    },
-    {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
-    },
-    {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
-    },
-    {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
-    },
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-    {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
-    },
-    {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "name": "Microsoft Office",
+        "icon": "https://png.pngtree.com/element_our/sm/20180627/sm_5b33460eda712.jpg"
     }
    
 ]
