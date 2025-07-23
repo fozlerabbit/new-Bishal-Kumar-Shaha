@@ -49,10 +49,10 @@ function showProjects(projects) {
         <div class="box tilt" style="width: 380px; margin: 1rem">
       <img draggable="false" src="https://biotechsphereresearch.odoo.com/web/image/1661-35df0748/2945204.webp" alt="project" />
       <div class="content">
-        <div class="tag">
+        <div class="desc">
         <h3>${project.desc}</h3>
         </div>
-        <div class="desc">
+        <div class="tag">
           <p>${project.name}</p>
         </div>
       </div>
